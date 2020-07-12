@@ -5,7 +5,7 @@
 Hi 👋, I'm Gabriel, a software enginneer living near Paris, specialized in **Software architecture**, **Clood** and **Embedded Systems (IOT)**.
 
 I have studied Computer Science for 4 years with [the ESILV school](https://www.esilv.fr/en/), in a dual degree in Management and Marketing with [the EMLV school.  💼](https://www.emlv.fr/en/)
-In late 2020 I'll be starting my last year in a Masters Degree in computer system architecture  with [Centrale SUPELEC]([https://www.centralesupelec.fr/](https://www.centralesupelec.fr/))  
+In late 2020 I'll be starting my last year in a Masters Degree in computer system architecture  with [Centrale SUPELEC](https://www.centralesupelec.fr)
 
 I've been working on **ROS**  (robot operating system) for 2 years.
 
