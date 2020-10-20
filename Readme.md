@@ -14,3 +14,10 @@ I like:
 - Devops technologies, learning new technologies to automate tests, deploy, scale, build ☸️
 - IOT Devices, build robot from scratch from electronics to coding (Big fan of ROS)
 - interesting projects: I choose carefully, to keep learning
+
+<b/>
+<br/>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=gabrielsoudry&show_icons=true">
+</p>
+ <br/>
