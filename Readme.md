@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://stackoverflow.com/users/82609/sebastien-lorber">LinkedIn</a> 
+  <a href="https://www.linkedin.com/in/gabriel-soudry/">LinkedIn</a> 
 </p>
 
 Hi 👋, I'm Gabriel, a software enginneer living near Paris, specialized in **Software architecture**, **Clood** and **Embedded Systems (IOT)**.
