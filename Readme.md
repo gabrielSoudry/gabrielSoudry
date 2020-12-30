@@ -1,6 +1,4 @@
-<p align="center">
-  <a href="https://www.linkedin.com/in/gabriel-soudry/">LinkedIn</a> 
-</p>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-soudry/)](https://www.linkedin.com/in/gabriel-soudry/)
 
 Hi 👋, I'm Gabriel, a software enginneer living near Paris, specialized in **Software architecture**, **Clood** and **Embedded Systems (IOT)**.
 
@@ -22,3 +20,4 @@ I like:
   <img src="https://github-readme-stats.vercel.app/api?username=gabrielsoudry&show_icons=true">
 </p>
  <br/>
+
