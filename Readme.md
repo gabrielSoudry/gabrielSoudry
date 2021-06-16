@@ -1,4 +1,4 @@
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-soudry/)](https://www.linkedin.com/in/gabriel-soudry/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-soudry/)](https://www.linkedin.fr/in/gabriel-soudry/)
 
 Hi 👋, I'm Gabriel, a software enginneer living near Paris, specialized in **Software architecture**, **Clood** and **Embedded Systems (IOT)**.
 
