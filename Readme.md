@@ -1,18 +1,15 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-soudry/)](https://www.linkedin.fr/in/gabriel-soudry/)
 
-Hi 👋, I'm Gabriel, a software enginneer living near Paris, specialized in **Software architecture**, **Clood** and **Embedded Systems (IOT)**.
+Hi 👋, I'm Gabriel, a french software enginneer living near Paris, specialized in **Software Architecture**, **Cloud** and **Embedded Systems (IoT)**.
 
-I have studied Computer Science for 4 years with [the ESILV school](https://www.esilv.fr/en/), in a dual degree in Management and Marketing with [the EMLV school.  💼](https://www.emlv.fr/en/)
-In late 2020 I started my last year in a Masters Degree in computer system architecture  with [CentraleSupélec](https://www.centralesupelec.fr)
-
-I've been working on **ROS**  (robot operating system) for 2 years.
+I have studied Computer Science for 5 years with [the ESILV school](https://www.esilv.fr/en/), in a dual degree for my last year with [CentraleSupélec](https://www.centralesupelec.fr).
 
 I like:
-- Linux, Git and Docker  ⚙️
-- Devops technologies, learning new technologies to automate tests, deploy, scale, build ☸️
-- OOP architecture, software craftsmanship
+- Linux, Git, Docker, Kubernetes  ⚙️
+- DevOps & SRE stack, learning new technology skills to automate tests, deploy, scale, build ☸️
+- OOP architecture, Clean Code Design, Software craftsmanship
 - IOT Devices, build robot from scratch from electronics to coding
-- interesting projects: I choose carefully, to keep learning
+- Interesting projects: I choose carefully, to keep learning
 
 <b/>
 <br/>
